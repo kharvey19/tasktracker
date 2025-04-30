@@ -1,5 +1,6 @@
-# 📝 Task Tracker CLI
 ![Alt Text](task.png)
+# Task Tracker CLI
+
 
 This is a command-line based task tracker I built inspired by the [Task Tracker project on roadmap.sh](https://roadmap.sh/projects/task-tracker).  
 It helped me get hands-on practice with file I/O, CLI argument parsing, and structuring a simple yet functional program in Python.

@@ -1,0 +1,7 @@
+[project]
+name = "task-tracker"
+version = "0.1.0"
+dependencies = ["typer"]
+
+[project.scripts]
+tasks = "task_tracker.main:app"

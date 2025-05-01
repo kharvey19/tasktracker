@@ -29,29 +29,29 @@ My goal was to create a simple tool to track tasks using the command line, while
 
 Adding a new task
 ```
-task-cli add "Buy groceries"
+tasks add "Call Dad"
 ```
 
 Updating and deleting tasks
 ```
-task-cli update 1 "Buy groceries and cook dinner"
-task-cli delete 1
+tasks update 1 "Buy groceries and cook dinner"
+tasks delete 1
 ```
 
 Marking a task as in progress or done
 ```
-task-cli mark-in-progress 1
-task-cli mark-done 1
+tasks mark 1 "in progress"
+tasks mark 1 "done"
 ```
 
 Listing all tasks
 ```
-task-cli list
+tasks list
 ```
 
 Listing tasks by status
 ```
-task-cli list done
-task-cli list todo
-task-cli list in-progress
+tasks list --status done
+tasks list --status todo
+tasks list --status todo
 ```

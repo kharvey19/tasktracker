@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "description": "Buy groceries and cook dinner",
+            "status": "done",
+            "createdAt": "2025-04-30T14:00:00.000000",
+            "updatedAt": "2025-04-30T20:18:02.473872"
+        },
+        {
+            "id": "2",
+            "description": "Clean Room",
+            "status": "in progress",
+            "createdAt": "2025-04-30T18:09:20.500207",
+            "updatedAt": "2025-04-30T18:09:20.500207"
+        },
+        {
+            "id": "3",
+            "description": "Write project report",
+            "status": "done",
+            "createdAt": "2025-04-29T21:30:00.000000",
+            "updatedAt": "2025-04-30T10:15:00.000000"
+        },
+        {
+            "id": "4",
+            "description": "Exercise for 30 minutes",
+            "status": "todo",
+            "createdAt": "2025-04-30T07:45:00.000000",
+            "updatedAt": ""
+        },
+        {
+            "id": "5",
+            "description": "Call Mom",
+            "status": "in progress",
+            "createdAt": "2025-04-30T12:00:00.000000",
+            "updatedAt": "2025-04-30T12:05:00.000000"
+        }
+    ]
+}

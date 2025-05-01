@@ -1,4 +1,7 @@
 ![Alt Text](task.png)
+![Python](https://img.shields.io/badge/python-3.11.4-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 # Task Tracker CLI
 
 
